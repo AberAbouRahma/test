@@ -40,7 +40,7 @@ p {
   text-align: center;
   font-size: 1.426em;
   float: right;
-  border: 2px solid black;
+  border: 1px solid black;
   border-top: unset;
   border-right: unset;
   font-weight: bold;
@@ -75,7 +75,7 @@ p {
     background-color: gray;
     margin-left: 2.5%;
     margin-top: 5px;
-    border: 2px solid black;
+    border: 1px solid black;
   }
   .col-lg-1 {
     width: 8.33%;
@@ -136,7 +136,7 @@ p {
     background-color: gray;
     margin-left: 3.33%;
     margin-bottom: 30px;
-    border: 2px solid black;
+    border: 1px solid black;
   }
   .col-md-1 {
     width: 8.33%;
@@ -197,7 +197,7 @@ p {
     margin-left: 3%;
     margin-right: 3%;
     margin-bottom: 30px;
-    border: 2px solid black;
+    border: 1px solid black;
   }
   .col-sm-1 {
     width: 8.33%;
